@@ -11,4 +11,4 @@
 
 - TimeComplexityCalculator: Asks for an integer and outputs all the time complexieties based on their mathematical formulas.
 
-Again feel free to try these out as much or as little as you would like lol. These projects are better than some in my opinion just not quite my favorite.
+Again feel free to try these out as much or as little as you would like lol. These projects are better than some in my opinion and show a wide variety of skills just not quite my favorite.
