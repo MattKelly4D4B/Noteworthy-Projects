@@ -1,0 +1,12 @@
+Enter a phrase: This is it
+[This is it] has been stored in the list
+
+Enter a phrase: This is not it
+[This is not it] has been stored in the list
+
+Enter a phrase: is This it
+That list location already contains [This is it]
+
+Enter a phrase: QUIT
+
+END OF PROGRAM
